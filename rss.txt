@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Open Minds … from Creative Commons]]></title>
+		<description><![CDATA[Creative Commons presents conversations with people working to make the Internet and our global culture more open and collaborative.]]></description>
+		<link>https://anchor.fm/creativecommons</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12892410/12892410-1613674549954-b2efc05b9037a.jpg</url>
+			<title>Open Minds … from Creative Commons</title>
+			<link>https://anchor.fm/creativecommons</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Wed, 29 Jun 2022 13:45:08 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/4d70d828/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Creative Commons]]></author>
+		<copyright><![CDATA[Creative Commons]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Creative Commons</itunes:author>
+		<itunes:summary>Creative Commons presents conversations with people working to make the Internet and our global culture more open and collaborative.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Creative Commons</itunes:name>
+			<itunes:email>podcasts60+4d70d828@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Society &amp; Culture"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12892410/12892410-1613674549954-b2efc05b9037a.jpg"/>
+		<item>
+			<title><![CDATA[*Special Episode* CC Roundtable on EU DATA ACT]]></title>
+			<description><![CDATA[<p>In this episode, we switch things up from our typical interview style and play back the recording of <strong>Creative Commons’ hybrid roundtable on the EU Data Act, which took place in Brussels on 14th June 2022</strong>. CC CEO Catherine Stihler kicks things off with welcome remarks, and then Brigitte Vézina, CC’s Director of Open Culture and Policy, moderates a conversation between our distinguished panel of experts on how this new piece of legislation could reshape the rules governing value creation around data and unlock the potential for better sharing of knowledge and culture in the digital space across the EU and globally. <br>
+<br>
+<br>
+Our speakers in this episode include:<br>
+<a href="https://creativecommons.org/author/catherine/">Catherine Stihler</a> | CEO, Creative Commons (Welcome &amp; Closing Remarks)<br>
+<a href="https://creativecommons.org/author/brigittevezina/">Brigitte Vézina</a> | Director of Policy, Open Culture and GLAM, Creative Commons (Moderator)<br>
+<a href="https://www.europarl.europa.eu/meps/en/37312/CHRISTEL_SCHALDEMOSE/home">Christel Schaldemose</a> | Member, European Parliament (Panelist)<br>
+<a href="https://lu.linkedin.com/in/anna-ludin-a2125021a/en?trk=public_profile_locale-url">Anna Ludin</a> | Policy Officer DG CNECT G.1, Data Policy and Innovation, <a href="https://ec.europa.eu/info/index_en">European Commission</a> (Panelist)<br>
+<a href="https://twitter.com/amandinelepape?lang=en">Amandine Le Pape</a> | COO/co-founder, <a href="https://element.io/">Element</a>, Guardian/co-founder, <a href="https://matrix.org/">Matrix.org </a>Foundation (Panelist)<br>
+<a href="https://twitter.com/paul_keller?lang=en">Paul Keller </a>| President/founding member, <a href="https://www.communia-association.org/">COMMUNIA</a> (Panelist)</p>
+<p><br></p>
+<p>Follow Creative Commons on Twitter: <a href="https://twitter.com/creativecommons"><u>https://twitter.com/creativecommons</u></a></p>
+<p>Donate to support the work of Creative Commons: <a href="https://www.classy.org/give/313412/#!/donation/checkout">https://www.classy.org/give/313412/#!/donation/checkout</a></p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Special-Episode-CC-Roundtable-on-EU-DATA-ACT-e1k9qk1</link>
+			<guid isPermaLink="false">e4a09409-07b9-45ca-b088-2c071415c89d</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Wed, 22 Jun 2022 13:38:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/53848129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-22%2F55c153bf-ec10-51c7-8a09-ad3cad723518.mp3" length="59028912" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, we switch things up from our typical interview style and play back the recording of &lt;strong&gt;Creative Commons’ hybrid roundtable on the EU Data Act, which took place in Brussels on 14th June 2022&lt;/strong&gt;. CC CEO Catherine Stihler kicks things off with welcome remarks, and then Brigitte Vézina, CC’s Director of Open Culture and Policy, moderates a conversation between our distinguished panel of experts on how this new piece of legislation could reshape the rules governing value creation around data and unlock the potential for better sharing of knowledge and culture in the digital space across the EU and globally. &lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+Our speakers in this episode include:&lt;br&gt;
+&lt;a href=&quot;https://creativecommons.org/author/catherine/&quot;&gt;Catherine Stihler&lt;/a&gt; | CEO, Creative Commons (Welcome &amp;amp; Closing Remarks)&lt;br&gt;
+&lt;a href=&quot;https://creativecommons.org/author/brigittevezina/&quot;&gt;Brigitte Vézina&lt;/a&gt; | Director of Policy, Open Culture and GLAM, Creative Commons (Moderator)&lt;br&gt;
+&lt;a href=&quot;https://www.europarl.europa.eu/meps/en/37312/CHRISTEL_SCHALDEMOSE/home&quot;&gt;Christel Schaldemose&lt;/a&gt; | Member, European Parliament (Panelist)&lt;br&gt;
+&lt;a href=&quot;https://lu.linkedin.com/in/anna-ludin-a2125021a/en?trk=public_profile_locale-url&quot;&gt;Anna Ludin&lt;/a&gt; | Policy Officer DG CNECT G.1, Data Policy and Innovation, &lt;a href=&quot;https://ec.europa.eu/info/index_en&quot;&gt;European Commission&lt;/a&gt; (Panelist)&lt;br&gt;
+&lt;a href=&quot;https://twitter.com/amandinelepape?lang=en&quot;&gt;Amandine Le Pape&lt;/a&gt; | COO/co-founder, &lt;a href=&quot;https://element.io/&quot;&gt;Element&lt;/a&gt;, Guardian/co-founder, &lt;a href=&quot;https://matrix.org/&quot;&gt;Matrix.org &lt;/a&gt;Foundation (Panelist)&lt;br&gt;
+&lt;a href=&quot;https://twitter.com/paul_keller?lang=en&quot;&gt;Paul Keller &lt;/a&gt;| President/founding member, &lt;a href=&quot;https://www.communia-association.org/&quot;&gt;COMMUNIA&lt;/a&gt; (Panelist)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Follow Creative Commons on Twitter: &lt;a href=&quot;https://twitter.com/creativecommons&quot;&gt;&lt;u&gt;https://twitter.com/creativecommons&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: &lt;a href=&quot;https://www.classy.org/give/313412/#!/donation/checkout&quot;&gt;https://www.classy.org/give/313412/#!/donation/checkout&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3689</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:episode>18</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Damien Riehl & Noah Rubin of All The Music]]></title>
+			<description><![CDATA[<p>In this episode of CC's Open Minds, we sit down with programmer, musician, and copyright attorney Damien Riehl, and fellow musician and programmer, Noah Rubin, the creators of the All The Music project. Frustrated by accidental copyright infringement lawsuits stifling artists creativity, the dynamic duo teamed up to create an algorithm that would generate and save every possible melody, in order to claim the copyright, and then release it again to the public domain under CC0, which means they have “no rights reserved.” We dive into why they decided to take on this audacious project, how they did it, and how they are trying to help other musicians.</p>
+<p>Learn more about All The Music: <a href="http://allthemusic.info/"><u>http://allthemusic.info/</u></a></p>
+<p>Follow Damien on Twitter: <a href="https://twitter.com/damienriehl"><u>https://twitter.com/damienriehl</u></a></p>
+<p>Follow Creative Commons on Twitter: <a href="https://twitter.com/creativecommons"><u>https://twitter.com/creativecommons</u></a></p>
+<p>Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout</p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/" rel="noopener noreferrer" target="_blank">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener noreferrer" target="_blank">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird" rel="noopener noreferrer" target="_blank">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Damien-Riehl--Noah-Rubin-of-All-The-Music-e1i2d86</link>
+			<guid isPermaLink="false">8b20882b-8816-46b5-956e-2574944235f0</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Wed, 04 May 2022 12:15:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/51507910/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-4%2F6fe678c8-f4e9-097a-e2ee-ae67fdafd813.mp3" length="24875766" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode of CC&apos;s Open Minds, we sit down with programmer, musician, and copyright attorney Damien Riehl, and fellow musician and programmer, Noah Rubin, the creators of the All The Music project. Frustrated by accidental copyright infringement lawsuits stifling artists creativity, the dynamic duo teamed up to create an algorithm that would generate and save every possible melody, in order to claim the copyright, and then release it again to the public domain under CC0, which means they have “no rights reserved.” We dive into why they decided to take on this audacious project, how they did it, and how they are trying to help other musicians.&lt;/p&gt;
+&lt;p&gt;Learn more about All The Music: &lt;a href=&quot;http://allthemusic.info/&quot;&gt;&lt;u&gt;http://allthemusic.info/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow Damien on Twitter: &lt;a href=&quot;https://twitter.com/damienriehl&quot;&gt;&lt;u&gt;https://twitter.com/damienriehl&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow Creative Commons on Twitter: &lt;a href=&quot;https://twitter.com/creativecommons&quot;&gt;&lt;u&gt;https://twitter.com/creativecommons&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1554</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Cory Doctorow, Science Fiction Author, Journalist and Tech Activist]]></title>
+			<description><![CDATA[<p>In this episode, Creative Commons' General Counsel, Kat Walsh, sits down for an hour-long discussion with award winning science fiction author, journalist and technology activist, Cory Doctorow (craphound.com). Cory is a renowned advocate for liberalizing copyright law and a longtime contributor and supporter of CC and the commons, with several of his titles and creative works licensed under CC licenses. He is the author of young adult novels like LITTLE BROTHER and HOMELAND, and novels for adults like ATTACK SURFACE and WALKAWAY, as well as nonfiction books like HOW TO DESTROY SURVEILLANCE CAPITALISM. His next nonfiction book is CHOKEPOINT CAPITALISM, with Rebecca Giblin, about monopoly and fairness in the creative arts labor market. Cory was born in Toronto, Canada, and now lives in Los Angeles.</p>
+<p>DISCLAIMER - Listener discretion is recommended. The following episode contains some language that some listeners may find offensive or inappropriate for younger audiences.</p>
+<p>Learn more about Cory Doctorow:<a href="https://craphound.com/"><u>https://craphound.com/</u></a></p>
+<p>Visit Cory’s daily blog: <a href="https://pluralistic.net/"><u>https://pluralistic.net/</u></a></p>
+<p>Follow Cory on Twitter: <a href="https://twitter.com/doctorow"><u>https://twitter.com/doctorow</u></a></p>
+<p>Follow Creative Commons on Twitter: <a href="https://twitter.com/creativecommons"><u>https://twitter.com/creativecommons</u></a></p>
+<p>Donate to support the work of Creative Commons: <a href="https://www.classy.org/give/313412/#!/donation/checkout">https://www.classy.org/give/313412/#!/donation/checkout</a></p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Cory-Doctorow--Science-Fiction-Author--Journalist-and-Tech-Activist-e1gpi6l</link>
+			<guid isPermaLink="false">657dd4c9-6af2-4cff-a051-7815f9514ca2</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Wed, 06 Apr 2022 08:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/50169493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-5%2F03c4addf-90de-10d0-d8c7-3bbb795ac03d.mp3" length="56796576" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, Creative Commons&apos; General Counsel, Kat Walsh, sits down for an hour-long discussion with award winning science fiction author, journalist and technology activist, Cory Doctorow (craphound.com). Cory is a renowned advocate for liberalizing copyright law and a longtime contributor and supporter of CC and the commons, with several of his titles and creative works licensed under CC licenses. He is the author of young adult novels like LITTLE BROTHER and HOMELAND, and novels for adults like ATTACK SURFACE and WALKAWAY, as well as nonfiction books like HOW TO DESTROY SURVEILLANCE CAPITALISM. His next nonfiction book is CHOKEPOINT CAPITALISM, with Rebecca Giblin, about monopoly and fairness in the creative arts labor market. Cory was born in Toronto, Canada, and now lives in Los Angeles.&lt;/p&gt;
+&lt;p&gt;DISCLAIMER - Listener discretion is recommended. The following episode contains some language that some listeners may find offensive or inappropriate for younger audiences.&lt;/p&gt;
+&lt;p&gt;Learn more about Cory Doctorow:&lt;a href=&quot;https://craphound.com/&quot;&gt;&lt;u&gt;https://craphound.com/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Visit Cory’s daily blog: &lt;a href=&quot;https://pluralistic.net/&quot;&gt;&lt;u&gt;https://pluralistic.net/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow Cory on Twitter: &lt;a href=&quot;https://twitter.com/doctorow&quot;&gt;&lt;u&gt;https://twitter.com/doctorow&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow Creative Commons on Twitter: &lt;a href=&quot;https://twitter.com/creativecommons&quot;&gt;&lt;u&gt;https://twitter.com/creativecommons&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: &lt;a href=&quot;https://www.classy.org/give/313412/#!/donation/checkout&quot;&gt;https://www.classy.org/give/313412/#!/donation/checkout&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3549</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Angela DeBarger of William and Flora Hewlett Foundation]]></title>
+			<description><![CDATA[<p>Dr. Angela Haydel DeBarger is a Program Officer in Education at the William and Flora Hewlett Foundation. Her portfolio addresses Open Education, with the aim of democratizing knowledge, creating inclusive and engaging experiences for learners, and advancing racial equity in education systems. Previously, Angela served as senior program officer for Lucas Education Research at the George Lucas Educational Foundation, where she led elementary and middle school project-based learning initiatives. From 2002 to 2014, she worked as an education researcher at SRI International. Her research focused on improving classroom pedagogy, specifically assessment strategies, to promote student learning and engagement in science. Angela has a bachelor’s degree in psychology from Stanford University, a master’s degree in psychology from the University of Michigan, and a doctorate in educational psychology from Stanford University. She is a native Californian and enjoys spending time with her two boys.</p>
+<p>Learn more about Open Education Week: https://www.openeducationweek.org/</p>
+<p>Follow Angela on Twitter: https://twitter.com/angeladebarger</p>
+<p>Follow Creative Commons on Twitter: <a href="https://twitter.com/creativecommons"><u>https://twitter.com/creativecommons</u></a></p>
+<p>Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout</p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Angela-DeBarger-of-William-and-Flora-Hewlett-Foundation-e1f9pn9</link>
+			<guid isPermaLink="false">b5280aca-5c10-4551-b63e-3fc06f167c26</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Mon, 07 Mar 2022 05:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/48604329/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-5%2Fbd6fbfb0-f788-08c5-0cf0-4db6ab6cdad8.mp3" length="30429212" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Dr. Angela Haydel DeBarger is a Program Officer in Education at the William and Flora Hewlett Foundation. Her portfolio addresses Open Education, with the aim of democratizing knowledge, creating inclusive and engaging experiences for learners, and advancing racial equity in education systems. Previously, Angela served as senior program officer for Lucas Education Research at the George Lucas Educational Foundation, where she led elementary and middle school project-based learning initiatives. From 2002 to 2014, she worked as an education researcher at SRI International. Her research focused on improving classroom pedagogy, specifically assessment strategies, to promote student learning and engagement in science. Angela has a bachelor’s degree in psychology from Stanford University, a master’s degree in psychology from the University of Michigan, and a doctorate in educational psychology from Stanford University. She is a native Californian and enjoys spending time with her two boys.&lt;/p&gt;
+&lt;p&gt;Learn more about Open Education Week: https://www.openeducationweek.org/&lt;/p&gt;
+&lt;p&gt;Follow Angela on Twitter: https://twitter.com/angeladebarger&lt;/p&gt;
+&lt;p&gt;Follow Creative Commons on Twitter: &lt;a href=&quot;https://twitter.com/creativecommons&quot;&gt;&lt;u&gt;https://twitter.com/creativecommons&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1901</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Brigitte Vézina of Creative Commons]]></title>
+			<description><![CDATA[<p>Brigitte Vézina is Creative Commons’ Director of Policy, Open Culture, and GLAM. Brigitte is passionate about all things spanning culture, arts, handicraft, traditions, fashion and, of course, copyright law and policy. She gets a kick out of tackling the fuzzy legal and policy issues that stand in the way of access, use, re-use and remix of culture, information and knowledge. In this episode, Brigitte shares everything you need to know about the <a href="https://creativecommons.org/about/program-areas/arts-culture/" target="_blank">Creative Commons Open Culture / Open GLAM program</a> and the new and exciting opportunities we have in store. We discuss Brigitte’s path to CC, the role and importance of Open Culture / Open GLAM, the impacts of COVID-19 on the sector, the future of Open Culture and more.</p>
+<p>Learn more about CC’s Open Culture Program: <a href="https://bit.ly/3Gm3bKH" target="_blank">https://bit.ly/3Gm3bKH</a></p>
+<p>Learn more about CC's Open Culture VOICES Series: <a href="https://bit.ly/3L0Iibe" target="_blank"><u>https://bit.ly/3L0Iibe</u></a></p>
+<p>Complete CC’s GLAM Public Domain Tools Survey: <a href="https://bit.ly/3gx50tT" target="_blank"><u>https://bit.ly/3gx50tT</u></a></p>
+<p>Follow Brigitte on Twitter @Brigitte_Vezina</p>
+<p>Creative Commons on Twitter: <a href="https://twitter.com/creativecommons" target="_blank">https://twitter.com/creativecommons</a></p>
+<p>Donate to support the work of Creative Commons: <a href="https://creativecommons.org/donate" target="_blank">https://creativecommons.org/donate</a></p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/" rel="noopener noreferrer" target="_blank">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener noreferrer" target="_blank">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird" rel="noopener noreferrer" target="_blank">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Brigitte-Vzina-of-Creative-Commons-e1dpsae</link>
+			<guid isPermaLink="false">4dcfc16d-cd90-4354-a67a-7d858dbd5bdd</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Tue, 01 Feb 2022 23:29:32 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/47034126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-1%2Febbf7a5e-d903-a4be-2ea7-fe4fb491d018.mp3" length="31966042" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Brigitte Vézina is Creative Commons’ Director of Policy, Open Culture, and GLAM. Brigitte is passionate about all things spanning culture, arts, handicraft, traditions, fashion and, of course, copyright law and policy. She gets a kick out of tackling the fuzzy legal and policy issues that stand in the way of access, use, re-use and remix of culture, information and knowledge. In this episode, Brigitte shares everything you need to know about the &lt;a href=&quot;https://creativecommons.org/about/program-areas/arts-culture/&quot; target=&quot;_blank&quot;&gt;Creative Commons Open Culture / Open GLAM program&lt;/a&gt; and the new and exciting opportunities we have in store. We discuss Brigitte’s path to CC, the role and importance of Open Culture / Open GLAM, the impacts of COVID-19 on the sector, the future of Open Culture and more.&lt;/p&gt;
+&lt;p&gt;Learn more about CC’s Open Culture Program: &lt;a href=&quot;https://bit.ly/3Gm3bKH&quot; target=&quot;_blank&quot;&gt;https://bit.ly/3Gm3bKH&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Learn more about CC&apos;s Open Culture VOICES Series: &lt;a href=&quot;https://bit.ly/3L0Iibe&quot; target=&quot;_blank&quot;&gt;&lt;u&gt;https://bit.ly/3L0Iibe&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Complete CC’s GLAM Public Domain Tools Survey: &lt;a href=&quot;https://bit.ly/3gx50tT&quot; target=&quot;_blank&quot;&gt;&lt;u&gt;https://bit.ly/3gx50tT&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow Brigitte on Twitter @Brigitte_Vezina&lt;/p&gt;
+&lt;p&gt;Creative Commons on Twitter: &lt;a href=&quot;https://twitter.com/creativecommons&quot; target=&quot;_blank&quot;&gt;https://twitter.com/creativecommons&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: &lt;a href=&quot;https://creativecommons.org/donate&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/donate&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1997</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Hessel van Oorschot of Tribe of Noise & Free Music Archive]]></title>
+			<description><![CDATA[<p>Hessel van Oorschot is founder and "Chief of Noise" of the online music business <a href="https://www.tribeofnoise.com/"><u>Tribe of Noise</u></a>, a community that connects artists, fans, and professionals. Founded in 2008 in The Netherlands, its main objective is to create fair and sustainable business opportunities for talented artists. Tribe of Noise are the stewards of the <a href="https://freemusicarchive.org/"><u>Free Music Archive</u></a>, an online repository of royalty-free music. During the conversation, Hessel shares his unconventional path to discovering his passion, his insights on the biggest opportunities for music licensing right now, how he got involved with the open movement and Creative Commons, and more.</p>
+<p>Learn more about Tribe of Noise: https://www.tribeofnoise.com/</p>
+<p>Learn more about the Free Music Archive: https://freemusicarchive.org/</p>
+<p>Follow Hessel on Twitter @73553H</p>
+<p>Find Hessel on LinkedIn https://www.linkedin.com/in/hesselvanoorschot/&nbsp;</p>
+<p>Creative Commons on Twitter: https://twitter.com/creativecommons</p>
+<p>Donate to support the work of Creative Commons: https://creativecommons.org/donate</p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Hessel-van-Oorschot-of-Tribe-of-Noise--Free-Music-Archive-e1crvce</link>
+			<guid isPermaLink="false">33b5eaa3-5c8d-457c-93ab-fe305531f552</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Wed, 12 Jan 2022 14:28:46 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/46054222/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-12%2F7352f28c-a928-ea7a-65ae-ccb5edffbac1.mp3" length="67247880" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Hessel van Oorschot is founder and &quot;Chief of Noise&quot; of the online music business &lt;a href=&quot;https://www.tribeofnoise.com/&quot;&gt;&lt;u&gt;Tribe of Noise&lt;/u&gt;&lt;/a&gt;, a community that connects artists, fans, and professionals. Founded in 2008 in The Netherlands, its main objective is to create fair and sustainable business opportunities for talented artists. Tribe of Noise are the stewards of the &lt;a href=&quot;https://freemusicarchive.org/&quot;&gt;&lt;u&gt;Free Music Archive&lt;/u&gt;&lt;/a&gt;, an online repository of royalty-free music. During the conversation, Hessel shares his unconventional path to discovering his passion, his insights on the biggest opportunities for music licensing right now, how he got involved with the open movement and Creative Commons, and more.&lt;/p&gt;
+&lt;p&gt;Learn more about Tribe of Noise: https://www.tribeofnoise.com/&lt;/p&gt;
+&lt;p&gt;Learn more about the Free Music Archive: https://freemusicarchive.org/&lt;/p&gt;
+&lt;p&gt;Follow Hessel on Twitter @73553H&lt;/p&gt;
+&lt;p&gt;Find Hessel on LinkedIn https://www.linkedin.com/in/hesselvanoorschot/&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Creative Commons on Twitter: https://twitter.com/creativecommons&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: https://creativecommons.org/donate&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2101</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[*Special Episode* CC's 20th Anniversary feat. Creative Commons founder Lawrence Lessig ]]></title>
+			<description><![CDATA[<p>On this milestone episode of CC's Open Minds, join us as we celebrate the 20th Anniversary of Creative Commons' founding on December 19, 2021. We take you back to Creative Commons founder Lawrence Lessig's keynote from the 2021 CC Global Summit, originally held in September 2021. Lawrence, fondly referred to by many as Larry, reflects on how CC began, what it has accomplished, and is later joined by Creative Commons CEO, Catherine Stihler, for a fireside chat where he shares his hopes for CC for the next twenty years and beyond. Lawrence is the Roy L. Furman Professor of Law at Harvard Law School, and director of the Edmond J. Safra Center for Ethics at Harvard University. He's a distinguished attorney, political activist and incredible visionary.&nbsp;</p>
+<p><br></p>
+<p>Follow Lawrence Lessig on Twitter: <a href="https://twitter.com/lessig" target="_blank">@lessig</a></p>
+<p>Creative Commons on Twitter: <a href="https://twitter.com/creativecommons" rel="ugc noopener noreferrer" target="_blank">https://twitter.com/creativecommons</a></p>
+<p>Learn more about CC’s &nbsp;‘Better Sharing’ 20th Anniversary Campaign: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbUIxa2JqQmlGbWl1aXVySGpvenQtNlNnYjhiUXxBQ3Jtc0trSldLZkVCUFprYjFlWS11RjY1aVdqZ3g5c01qZUlpd2ZSTkNaWUdUM3N5OE1tNlBOT2hrc3VRTVIxTFRpYlk0bnEtYzRvOVlCMlRIaGZRU1pPQm4tVG5NT3M0LVpiWHhhaGxCNEhJLWJJMFNFdzN0UQ&amp;q=https%3A%2F%2Fcreativecommons.org%2F20-years%2F" rel="nofollow" target="_blank">https://creativecommons.org/20-years/</a></p>
+<p>Donate to support the work of Creative Commons: <a href="https://creativecommons.org/donate" target="_blank">https://creativecommons.org/donate</a></p>
+<p>Featured music: "<a href="https://freemusicarchive.org/music/serge-quadrado/happy-birthday-to-you-instrumentals/happy-birthday-to-you-ska" target="_blank">Happy Birthday to You Ska</a>" by <a href="https://freemusicarchive.org/music/serge-quadrado" rel="cc:attributionURL">Serge Quadrado</a>. Available for use under the Creative Commons <a href="https://creativecommons.org/licenses/by-nc/4.0" rel="license">Attribution-NonCommercial 4.0 International License</a> at <a href="http://freemusicarchive.org" target="_blank">the Free Music Archive</a>.</p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Special-Episode-CCs-20th-Anniversary-feat--Creative-Commons-founder-Lawrence-Lessig-e1bsfro</link>
+			<guid isPermaLink="false">87eb4723-04b4-48a4-aa7e-b2f05d70b37a</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Sun, 19 Dec 2021 07:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/45022520/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-18%2F1d3b3ed2-9fd1-0b8f-9f9c-820f413e08fd.mp3" length="88709249" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;On this milestone episode of CC&apos;s Open Minds, join us as we celebrate the 20th Anniversary of Creative Commons&apos; founding on December 19, 2021. We take you back to Creative Commons founder Lawrence Lessig&apos;s keynote from the 2021 CC Global Summit, originally held in September 2021. Lawrence, fondly referred to by many as Larry, reflects on how CC began, what it has accomplished, and is later joined by Creative Commons CEO, Catherine Stihler, for a fireside chat where he shares his hopes for CC for the next twenty years and beyond. Lawrence is the Roy L. Furman Professor of Law at Harvard Law School, and director of the Edmond J. Safra Center for Ethics at Harvard University. He&apos;s a distinguished attorney, political activist and incredible visionary.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Follow Lawrence Lessig on Twitter: &lt;a href=&quot;https://twitter.com/lessig&quot; target=&quot;_blank&quot;&gt;@lessig&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Creative Commons on Twitter: &lt;a href=&quot;https://twitter.com/creativecommons&quot; rel=&quot;ugc noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://twitter.com/creativecommons&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Learn more about CC’s &amp;nbsp;‘Better Sharing’ 20th Anniversary Campaign: &lt;a href=&quot;https://www.youtube.com/redirect?event=video_description&amp;amp;redir_token=QUFFLUhqbUIxa2JqQmlGbWl1aXVySGpvenQtNlNnYjhiUXxBQ3Jtc0trSldLZkVCUFprYjFlWS11RjY1aVdqZ3g5c01qZUlpd2ZSTkNaWUdUM3N5OE1tNlBOT2hrc3VRTVIxTFRpYlk0bnEtYzRvOVlCMlRIaGZRU1pPQm4tVG5NT3M0LVpiWHhhaGxCNEhJLWJJMFNFdzN0UQ&amp;amp;q=https%3A%2F%2Fcreativecommons.org%2F20-years%2F&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/20-years/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: &lt;a href=&quot;https://creativecommons.org/donate&quot; target=&quot;_blank&quot;&gt;https://creativecommons.org/donate&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Featured music: &quot;&lt;a href=&quot;https://freemusicarchive.org/music/serge-quadrado/happy-birthday-to-you-instrumentals/happy-birthday-to-you-ska&quot; target=&quot;_blank&quot;&gt;Happy Birthday to You Ska&lt;/a&gt;&quot; by &lt;a href=&quot;https://freemusicarchive.org/music/serge-quadrado&quot; rel=&quot;cc:attributionURL&quot;&gt;Serge Quadrado&lt;/a&gt;. Available for use under the Creative Commons &lt;a href=&quot;https://creativecommons.org/licenses/by-nc/4.0&quot; rel=&quot;license&quot;&gt;Attribution-NonCommercial 4.0 International License&lt;/a&gt; at &lt;a href=&quot;http://freemusicarchive.org&quot; target=&quot;_blank&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2772</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Yana Buhrer Tavanier and Pavel Kounchev of Fine Acts]]></title>
+			<description><![CDATA[<p>On this episode, we’re joined by two guests, Yana Buhrer Tavanier and Pavel Kounchev, two of three co-founders of <a href="https://fineacts.co/"><u>Fine Acts</u></a>, a global creative studio that encourages experimentation and collaboration across disciplines to inspire social change. Fine Acts brings together multidisciplinary teams of artists, activists and technologists to prototype compelling works of art aligned with specific human rights campaigns. They publish all completed works on <a href="https://thegreats.co/"><u>TheGreats.co</u></a>, their free platform filled with socially engaged visual content, open to anyone to use or adapt non-commercially under CC licenses.</p>
+<p>Yana is the Executive Director of Fine Acts, a TED Senior Fellow, Young Global Leader of the World Economic Forum, a Fellow of the Royal Society of Arts, and her most recent TED talk, focused on the concept of playtivism: incorporating multidisciplinary creative play and experimentation in activism has been viewed close to 2 million times. Pavel is chair of the board of Fine Acts, an Obama Foundation scholar at Columbia University, and a Royal Society of the Arts fellow. He was born in Bulgaria, where he also co-founded <a href="https://timeheroes.org/"><u>TimeHeroes</u></a> with Yana – the biggest online volunteering service in the country, with 80,000 registered volunteers – for which he was named among Forbes Bulgaria’s list of 30 Under 30.</p>
+<p>Check out Fine Acts’ website: <a href="http://fineacts.co/"><u>http://fineacts.co/</u></a></p>
+<p>Follow Fine Acts on Twitter: <a href="https://twitter.com/fine_acts"><u>https://twitter.com/fine_acts</u></a></p>
+<p>Follow Fine Acts on Instagram: <a href="http://instagram.com/fineacts"><u>http://instagram.com/fineacts</u></a></p>
+<p>Visit The Greats platform: <a href="https://thegreats.co/"><u>https://thegreats.co/</u></a></p>
+<p>Creative Commons on Twitter:<a href="https://twitter.com/creativecommons"> <u>https://twitter.com/creativecommons</u></a></p>
+<p>Donate to support the work of Creative Commons: <a href="https://www.classy.org/give/313412/#!/donation/checkout"><u>https://www.classy.org/give/313412/#!/donation/checkout</u></a></p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Yana-Buhrer-Tavanier-and-Pavel-Kounchev-of-Fine-Acts-e1aaptl</link>
+			<guid isPermaLink="false">b16286f5-798e-4ee0-9e3f-1dcc95adc903</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Wed, 17 Nov 2021 22:29:07 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/43394421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-17%2F231790334-44100-2-e9e228701ae47.m4a" length="36983265" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;On this episode, we’re joined by two guests, Yana Buhrer Tavanier and Pavel Kounchev, two of three co-founders of &lt;a href=&quot;https://fineacts.co/&quot;&gt;&lt;u&gt;Fine Acts&lt;/u&gt;&lt;/a&gt;, a global creative studio that encourages experimentation and collaboration across disciplines to inspire social change. Fine Acts brings together multidisciplinary teams of artists, activists and technologists to prototype compelling works of art aligned with specific human rights campaigns. They publish all completed works on &lt;a href=&quot;https://thegreats.co/&quot;&gt;&lt;u&gt;TheGreats.co&lt;/u&gt;&lt;/a&gt;, their free platform filled with socially engaged visual content, open to anyone to use or adapt non-commercially under CC licenses.&lt;/p&gt;
+&lt;p&gt;Yana is the Executive Director of Fine Acts, a TED Senior Fellow, Young Global Leader of the World Economic Forum, a Fellow of the Royal Society of Arts, and her most recent TED talk, focused on the concept of playtivism: incorporating multidisciplinary creative play and experimentation in activism has been viewed close to 2 million times. Pavel is chair of the board of Fine Acts, an Obama Foundation scholar at Columbia University, and a Royal Society of the Arts fellow. He was born in Bulgaria, where he also co-founded &lt;a href=&quot;https://timeheroes.org/&quot;&gt;&lt;u&gt;TimeHeroes&lt;/u&gt;&lt;/a&gt; with Yana – the biggest online volunteering service in the country, with 80,000 registered volunteers – for which he was named among Forbes Bulgaria’s list of 30 Under 30.&lt;/p&gt;
+&lt;p&gt;Check out Fine Acts’ website: &lt;a href=&quot;http://fineacts.co/&quot;&gt;&lt;u&gt;http://fineacts.co/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow Fine Acts on Twitter: &lt;a href=&quot;https://twitter.com/fine_acts&quot;&gt;&lt;u&gt;https://twitter.com/fine_acts&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow Fine Acts on Instagram: &lt;a href=&quot;http://instagram.com/fineacts&quot;&gt;&lt;u&gt;http://instagram.com/fineacts&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Visit The Greats platform: &lt;a href=&quot;https://thegreats.co/&quot;&gt;&lt;u&gt;https://thegreats.co/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Creative Commons on Twitter:&lt;a href=&quot;https://twitter.com/creativecommons&quot;&gt; &lt;u&gt;https://twitter.com/creativecommons&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: &lt;a href=&quot;https://www.classy.org/give/313412/#!/donation/checkout&quot;&gt;&lt;u&gt;https://www.classy.org/give/313412/#!/donation/checkout&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2286</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Tyler Green of The Modern Art Notes Podcast]]></title>
+			<description><![CDATA[<p><a href="http://tylergreenbooks.com/"><u>Tyler Green</u></a> is an award-winning author, historian and art critic. Tyler is also the producer/host of <a href="https://manpodcast.com/"><u>The Modern Art Notes podcast</u></a>, described by The Washington Post as "one of the great resources for all art lovers." Tyler is an avid Creative Commoner, and since launching the podcast in 2011, it has been released, licensed <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/" target="_blank">CC BY-NC-ND 3.0</a>.</p>
+<p>Tyler recently published his latest book ‘<a href="https://tylergreenbooks.com/books/emersons-nature-and-the-artists/"><u>Emerson’s </u><u><em>Nature</em></u><u> and the Artists</u></a><u>,</u>’ which brings together a selection of 75 artistic works in dialog with<a href="https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson"> <u>Ralph Waldo Emerson</u></a>’s 1836<a href="https://en.wikipedia.org/wiki/Nature_(essay)"> <u><em>Nature</em></u></a> essay for the first time. All of the artworks in the book were sourced from art museums and libraries with open access policies. Tyler offers his own compelling insights into <em>Nature</em> through new research into how Emerson's art experiences influenced the essay, and in turn how it informed American art well into the twentieth century. In this episode, we discuss Emerson’s understanding of landscape and the public commons, how it shaped American Art, and how it is still relevant to Creative Commons and the broader open movement today. Tyler shares top tips from a decades worth of podcasting experience and much more.</p>
+<p>Get a copy of Tyler’s <em>Emerson’s Nature and the Artists: </em><a href="https://tylergreenbooks.com/books/emersons-nature-and-the-artists/"><u>https://tylergreenbooks.com/books/emersons-nature-and-the-artists/</u></a></p>
+<p>Check out Tyler’s website: <a href="https://tylergreenbooks.com/"><u>https://tylergreenbooks.com/</u></a></p>
+<p>Follow Tyler on Twitter &amp; IG: @TylerGreenBooks</p>
+<p>Creative Commons on Twitter: <a href="https://twitter.com/creativecommons"><u>https://twitter.com/creativecommons</u></a></p>
+<p>Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout</p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Tyler-Green-of-The-Modern-Art-Notes-Podcast-e19m57p</link>
+			<guid isPermaLink="false">0af99e59-8c43-4181-bc82-4d7a0bf6ab24</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Tue, 02 Nov 2021 20:41:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/42717881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-2%2Fb523b2ec-c37f-038d-c213-16bf2801f8fe.mp3" length="71159140" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;http://tylergreenbooks.com/&quot;&gt;&lt;u&gt;Tyler Green&lt;/u&gt;&lt;/a&gt; is an award-winning author, historian and art critic. Tyler is also the producer/host of &lt;a href=&quot;https://manpodcast.com/&quot;&gt;&lt;u&gt;The Modern Art Notes podcast&lt;/u&gt;&lt;/a&gt;, described by The Washington Post as &quot;one of the great resources for all art lovers.&quot; Tyler is an avid Creative Commoner, and since launching the podcast in 2011, it has been released, licensed &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-nd/3.0/&quot; target=&quot;_blank&quot;&gt;CC BY-NC-ND 3.0&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Tyler recently published his latest book ‘&lt;a href=&quot;https://tylergreenbooks.com/books/emersons-nature-and-the-artists/&quot;&gt;&lt;u&gt;Emerson’s &lt;/u&gt;&lt;u&gt;&lt;em&gt;Nature&lt;/em&gt;&lt;/u&gt;&lt;u&gt; and the Artists&lt;/u&gt;&lt;/a&gt;&lt;u&gt;,&lt;/u&gt;’ which brings together a selection of 75 artistic works in dialog with&lt;a href=&quot;https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson&quot;&gt; &lt;u&gt;Ralph Waldo Emerson&lt;/u&gt;&lt;/a&gt;’s 1836&lt;a href=&quot;https://en.wikipedia.org/wiki/Nature_(essay)&quot;&gt; &lt;u&gt;&lt;em&gt;Nature&lt;/em&gt;&lt;/u&gt;&lt;/a&gt; essay for the first time. All of the artworks in the book were sourced from art museums and libraries with open access policies. Tyler offers his own compelling insights into &lt;em&gt;Nature&lt;/em&gt; through new research into how Emerson&apos;s art experiences influenced the essay, and in turn how it informed American art well into the twentieth century. In this episode, we discuss Emerson’s understanding of landscape and the public commons, how it shaped American Art, and how it is still relevant to Creative Commons and the broader open movement today. Tyler shares top tips from a decades worth of podcasting experience and much more.&lt;/p&gt;
+&lt;p&gt;Get a copy of Tyler’s &lt;em&gt;Emerson’s Nature and the Artists: &lt;/em&gt;&lt;a href=&quot;https://tylergreenbooks.com/books/emersons-nature-and-the-artists/&quot;&gt;&lt;u&gt;https://tylergreenbooks.com/books/emersons-nature-and-the-artists/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check out Tyler’s website: &lt;a href=&quot;https://tylergreenbooks.com/&quot;&gt;&lt;u&gt;https://tylergreenbooks.com/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow Tyler on Twitter &amp;amp; IG: @TylerGreenBooks&lt;/p&gt;
+&lt;p&gt;Creative Commons on Twitter: &lt;a href=&quot;https://twitter.com/creativecommons&quot;&gt;&lt;u&gt;https://twitter.com/creativecommons&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2964</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Heather Joseph of SPARC]]></title>
+			<description><![CDATA[<p>In celebration of International Open Access Week, our guest on this episode is Heather Joseph, the Executive Director of SPARC (the Scholarly Publishing and Academic Resources Coalition). Heather is a United States-based advocate for open access and academic journal publishing reform. SPARC is a global advocacy organization that works to make research and education open and equitable by design—for everyone. Under Heather's stewardship, SPARC has become widely recognized as the leading international force for effective open access policies and practices.</p>
+<p>Open Access Week is a global, community-driven week of action to open up access to research that is taking place from October 25-31 this year. &nbsp;International Open Access Week was established by SPARC and partners in the student community in 2008. Find out more about the week’s activities at openaccessweek.org.</p>
+<p>Learn more about Internation Open Access Week: <a href="http://www.openaccessweek.org/"><u>http://www.openaccessweek.org/</u></a></p>
+<p>Visit SPARC’s website: <a href="http://sparcopen.org/"><u>http://sparcopen.org/</u></a></p>
+<p>Follow Heather on Twitter: <a href="https://twitter.com/hjoseph"><u>https://twitter.com/hjoseph</u></a></p>
+<p>Follow SPARC on Twitter: <a href="https://twitter.com/SPARC_NA"><u>https://twitter.com/SPARC_NA</u></a></p>
+<p>Donate to support the work of Creative Commons: <a href="https://www.classy.org/give/313412/#!/donation/checkout" target="_blank">https://www.classy.org/give/313412/#!/donation/checkout</a>&nbsp;</p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Heather-Joseph-of-SPARC-e199g6a</link>
+			<guid isPermaLink="false">d9dcae6a-f03d-48b7-86ba-9ed366129412</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Mon, 25 Oct 2021 14:18:22 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/42303114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-25%2Ffd53b0a9-879a-7476-168d-0cafb87b7916.mp3" length="32771053" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In celebration of International Open Access Week, our guest on this episode is Heather Joseph, the Executive Director of SPARC (the Scholarly Publishing and Academic Resources Coalition). Heather is a United States-based advocate for open access and academic journal publishing reform. SPARC is a global advocacy organization that works to make research and education open and equitable by design—for everyone. Under Heather&apos;s stewardship, SPARC has become widely recognized as the leading international force for effective open access policies and practices.&lt;/p&gt;
+&lt;p&gt;Open Access Week is a global, community-driven week of action to open up access to research that is taking place from October 25-31 this year. &amp;nbsp;International Open Access Week was established by SPARC and partners in the student community in 2008. Find out more about the week’s activities at openaccessweek.org.&lt;/p&gt;
+&lt;p&gt;Learn more about Internation Open Access Week: &lt;a href=&quot;http://www.openaccessweek.org/&quot;&gt;&lt;u&gt;http://www.openaccessweek.org/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Visit SPARC’s website: &lt;a href=&quot;http://sparcopen.org/&quot;&gt;&lt;u&gt;http://sparcopen.org/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow Heather on Twitter: &lt;a href=&quot;https://twitter.com/hjoseph&quot;&gt;&lt;u&gt;https://twitter.com/hjoseph&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow SPARC on Twitter: &lt;a href=&quot;https://twitter.com/SPARC_NA&quot;&gt;&lt;u&gt;https://twitter.com/SPARC_NA&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: &lt;a href=&quot;https://www.classy.org/give/313412/#!/donation/checkout&quot; target=&quot;_blank&quot;&gt;https://www.classy.org/give/313412/#!/donation/checkout&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2048</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[*Special Episode* Meet 3 of our CC Global Summit Keynotes]]></title>
+			<description><![CDATA[<p>In anticipation of our <a href="https://creativecommons.org/2021/07/14/registration-for-the-virtual-2021-cc-global-summit-is-now-open/"><u>upcoming virtual CC Global Summit</u></a>, we’re doing something a little different in this episode. Pack your bags and prepare for a short (audio) tour around the world, join CC’s Ony Anukem as she speaks to three of our wonderful <a href="https://summit.creativecommons.org/2021-keynotes/"><u>Summit keynote speakers</u></a>. First up in Nairobi, Kenya, where we sit down with <a href="https://twitter.com/angienicoleod?lang=en"><u>Angela Oduor Lungati</u></a>, Executive Director at <a href="https://www.ushahidi.com/"><u>Ushahidi</u></a>. Ushahidi is a global non-profit technology company that builds tools for democratizing information, increasing transparency and lowering barriers for individuals to raise their voices. Angela was also recently appointed to the Creative Commons Board of Directors.</p>
+<p>Next, we'll arrive in Bangalore, India, where you’ll hear from Shuttleworth Fellow and Coordinator of the <a href="https://accessibsa.org/"><u>AccessIBSA project</u></a>, Achal Prabhala. AccessIBSA is a project set up to expand access and speed up the discovery of new drugs in India, Brazil and South Africa. Our final stop on the tour will be in Rio de Janeiro, Brazil, where we will catch up with <a href="https://twitter.com/Cecillia"><u>Cecília Olliveira</u></a>, Executive Director of <a href="https://fogocruzado.org.br/"><u>Fogo Cruzado</u></a>. Fogo Cruzado aims to expand a community-driven open data platform and reduce the impact of armed violence to build a more just society. She is also a fellow of the Shuttleworth Foundation.</p>
+<p>Are you ready for an adventure? Get to know our Summit keynote speakers, as we talk about their work, what drives them and what they are most excited about for this year’s CC Global Summit.</p>
+<p>Register for the 2021 CC Global Summit: <a href="https://www.classy.org/event/cc-global-summit-2021/e347520"><u>https://www.classy.org/event/cc-global-summit-2021/e347520</u></a></p>
+<p>Follow Angela on Twitter: <a href="https://twitter.com/angienicoleod?lang=en"><u>@AngieNicoleOD</u></a></p>
+<p>Follow Cecília on Twitter: <a href="https://twitter.com/Cecillia"><u>@Cecillia</u></a></p>
+<p>Creative Commons on Twitter: <a href="https://twitter.com/creativecommons">https://twitter.com/creativecommons</a></p>
+<p>Donate to support the work of Creative Commons: <a href="https://www.classy.org/give/313412/#!/donation/checkout">https://www.classy.org/give/313412/#!/donation/checkout</a></p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Special-Episode-Meet-3-of-our-CC-Global-Summit-Keynotes-e176ekl</link>
+			<guid isPermaLink="false">c70998a8-bf0b-468a-ba9f-5bdda5a0d9f7</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Fri, 10 Sep 2021 17:08:14 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/40106069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-10%2F1a019c4a-1327-d4ec-717d-21e6699a3f86.mp3" length="95164626" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In anticipation of our &lt;a href=&quot;https://creativecommons.org/2021/07/14/registration-for-the-virtual-2021-cc-global-summit-is-now-open/&quot;&gt;&lt;u&gt;upcoming virtual CC Global Summit&lt;/u&gt;&lt;/a&gt;, we’re doing something a little different in this episode. Pack your bags and prepare for a short (audio) tour around the world, join CC’s Ony Anukem as she speaks to three of our wonderful &lt;a href=&quot;https://summit.creativecommons.org/2021-keynotes/&quot;&gt;&lt;u&gt;Summit keynote speakers&lt;/u&gt;&lt;/a&gt;. First up in Nairobi, Kenya, where we sit down with &lt;a href=&quot;https://twitter.com/angienicoleod?lang=en&quot;&gt;&lt;u&gt;Angela Oduor Lungati&lt;/u&gt;&lt;/a&gt;, Executive Director at &lt;a href=&quot;https://www.ushahidi.com/&quot;&gt;&lt;u&gt;Ushahidi&lt;/u&gt;&lt;/a&gt;. Ushahidi is a global non-profit technology company that builds tools for democratizing information, increasing transparency and lowering barriers for individuals to raise their voices. Angela was also recently appointed to the Creative Commons Board of Directors.&lt;/p&gt;
+&lt;p&gt;Next, we&apos;ll arrive in Bangalore, India, where you’ll hear from Shuttleworth Fellow and Coordinator of the &lt;a href=&quot;https://accessibsa.org/&quot;&gt;&lt;u&gt;AccessIBSA project&lt;/u&gt;&lt;/a&gt;, Achal Prabhala. AccessIBSA is a project set up to expand access and speed up the discovery of new drugs in India, Brazil and South Africa. Our final stop on the tour will be in Rio de Janeiro, Brazil, where we will catch up with &lt;a href=&quot;https://twitter.com/Cecillia&quot;&gt;&lt;u&gt;Cecília Olliveira&lt;/u&gt;&lt;/a&gt;, Executive Director of &lt;a href=&quot;https://fogocruzado.org.br/&quot;&gt;&lt;u&gt;Fogo Cruzado&lt;/u&gt;&lt;/a&gt;. Fogo Cruzado aims to expand a community-driven open data platform and reduce the impact of armed violence to build a more just society. She is also a fellow of the Shuttleworth Foundation.&lt;/p&gt;
+&lt;p&gt;Are you ready for an adventure? Get to know our Summit keynote speakers, as we talk about their work, what drives them and what they are most excited about for this year’s CC Global Summit.&lt;/p&gt;
+&lt;p&gt;Register for the 2021 CC Global Summit: &lt;a href=&quot;https://www.classy.org/event/cc-global-summit-2021/e347520&quot;&gt;&lt;u&gt;https://www.classy.org/event/cc-global-summit-2021/e347520&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow Angela on Twitter: &lt;a href=&quot;https://twitter.com/angienicoleod?lang=en&quot;&gt;&lt;u&gt;@AngieNicoleOD&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow Cecília on Twitter: &lt;a href=&quot;https://twitter.com/Cecillia&quot;&gt;&lt;u&gt;@Cecillia&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Creative Commons on Twitter: &lt;a href=&quot;https://twitter.com/creativecommons&quot;&gt;https://twitter.com/creativecommons&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: &lt;a href=&quot;https://www.classy.org/give/313412/#!/donation/checkout&quot;&gt;https://www.classy.org/give/313412/#!/donation/checkout&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3965</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Matt Mullenweg of Automattic]]></title>
+			<description><![CDATA[<p>Originally from Houston, Texas, Matt is the co-founder of the open-source blogging platform <a href="https://wordpress.com/">WordPress</a>, the most popular publishing platform on the web, and the founder and CEO of <a href="https://automattic.com/">Automattic</a>, the company behind WordPress.com, <a href="https://woocommerce.com/">WooCommerce</a> and <a href="https://jetpack.com/">Jetpack</a>. As an advocate of distributed work, Matt set out to change the way folks work at Automattic. With more than 1,100 employees working from more than 62 countries, it is an entirely distributed company with no physical headquarters.</p>
+<p>Matt is a long-time supporter of Creative Commons, and earlier this year, <a href="https://creativecommons.org/2021/05/03/cc-search-to-join-wordpress/">we announced</a> that <a href="https://search.creativecommons.org/">CC Search</a>, the search engine we built for openly licensed content, had found a new home at WordPress.org.</p>
+<p>Check out Matt’s blog: <a href="https://ma.tt/"><u>https://ma.tt/</u></a></p>
+<p>Follow Matt on Twitter, Instagram &amp; Tumblr @PhotoMatt</p>
+<p>Creative Commons on Twitter: <a href="https://twitter.com/creativecommons" target="_blank">https://twitter.com/creativecommons</a></p>
+<p>Donate to support the work of Creative Commons: <a href="https://www.classy.org/give/313412/#!/donation/checkout" target="_blank">https://www.classy.org/give/313412/#!/donation/checkout</a></p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Matt-Mullenweg-of-Automattic-e16hv85</link>
+			<guid isPermaLink="false">37b1822c-7917-4fc5-b2c1-a777cf49c6e5</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Fri, 27 Aug 2021 17:11:53 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/39434949/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-27%2F18a57ad4-ea21-e655-62f8-ce90d18640a1.mp3" length="62813958" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Originally from Houston, Texas, Matt is the co-founder of the open-source blogging platform &lt;a href=&quot;https://wordpress.com/&quot;&gt;WordPress&lt;/a&gt;, the most popular publishing platform on the web, and the founder and CEO of &lt;a href=&quot;https://automattic.com/&quot;&gt;Automattic&lt;/a&gt;, the company behind WordPress.com, &lt;a href=&quot;https://woocommerce.com/&quot;&gt;WooCommerce&lt;/a&gt; and &lt;a href=&quot;https://jetpack.com/&quot;&gt;Jetpack&lt;/a&gt;. As an advocate of distributed work, Matt set out to change the way folks work at Automattic. With more than 1,100 employees working from more than 62 countries, it is an entirely distributed company with no physical headquarters.&lt;/p&gt;
+&lt;p&gt;Matt is a long-time supporter of Creative Commons, and earlier this year, &lt;a href=&quot;https://creativecommons.org/2021/05/03/cc-search-to-join-wordpress/&quot;&gt;we announced&lt;/a&gt; that &lt;a href=&quot;https://search.creativecommons.org/&quot;&gt;CC Search&lt;/a&gt;, the search engine we built for openly licensed content, had found a new home at WordPress.org.&lt;/p&gt;
+&lt;p&gt;Check out Matt’s blog: &lt;a href=&quot;https://ma.tt/&quot;&gt;&lt;u&gt;https://ma.tt/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow Matt on Twitter, Instagram &amp;amp; Tumblr @PhotoMatt&lt;/p&gt;
+&lt;p&gt;Creative Commons on Twitter: &lt;a href=&quot;https://twitter.com/creativecommons&quot; target=&quot;_blank&quot;&gt;https://twitter.com/creativecommons&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: &lt;a href=&quot;https://www.classy.org/give/313412/#!/donation/checkout&quot; target=&quot;_blank&quot;&gt;https://www.classy.org/give/313412/#!/donation/checkout&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2617</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Albert Wenger of Union Square Ventures]]></title>
+			<description><![CDATA[<p>Albert Wenger is managing partner at Union Square Ventures, a thesis-driven venture capital firm based in New York City. USV has invested in over 100 companies that use the power of the internet to re-shape markets, including Twitter, Etsy, Stripe, Tumblr, Meetup, and Kickstarter, among others. He is also the author of the book World After Capital, an evolving digital book project that explores a set of megatrend shifts as the global economy moves from the Industrial Age to the Knowledge Age. The book is free and available at worldaftercapital.org under a Creative Commons license.</p>
+<p>Albert Wenger on Twitter: https://twitter.com/albertwenger</p>
+<p>Access 'World After Capital' by Albert Wenger (l: https://worldaftercapital.org/</p>
+<p>Visit Albert's Blog: https://continuations.com/</p>
+<p>Creative Commons on Twitter: https://twitter.com/creativecommons&nbsp;</p>
+<p>Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout</p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Albert-Wenger-of-Union-Square-Ventures-e15c8jf</link>
+			<guid isPermaLink="false">f7085625-3539-41ba-ac39-acb184ae348b</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Mon, 02 Aug 2021 20:14:50 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/38199343/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-2%2F8fcc9d71-16a5-c086-bd3b-1e7e0f9ca7a0.mp3" length="41663552" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Albert Wenger is managing partner at Union Square Ventures, a thesis-driven venture capital firm based in New York City. USV has invested in over 100 companies that use the power of the internet to re-shape markets, including Twitter, Etsy, Stripe, Tumblr, Meetup, and Kickstarter, among others. He is also the author of the book World After Capital, an evolving digital book project that explores a set of megatrend shifts as the global economy moves from the Industrial Age to the Knowledge Age. The book is free and available at worldaftercapital.org under a Creative Commons license.&lt;/p&gt;
+&lt;p&gt;Albert Wenger on Twitter: https://twitter.com/albertwenger&lt;/p&gt;
+&lt;p&gt;Access &apos;World After Capital&apos; by Albert Wenger (l: https://worldaftercapital.org/&lt;/p&gt;
+&lt;p&gt;Visit Albert&apos;s Blog: https://continuations.com/&lt;/p&gt;
+&lt;p&gt;Creative Commons on Twitter: https://twitter.com/creativecommons&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1735</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Audrey Tang, Digital Minister of Taiwan]]></title>
+			<description><![CDATA[<p>Audrey Tang is the Digital Minister of Taiwan, as well as an influential free software programmer and hacker. Tang is a vocal proponent of openness and has worked to manifest a vision for how open data and radical transparency can result in positive, productive collaboration between government and civil society.</p>
+<p>Tang will be one of the keynote speakers at this year's CC Global Summit (happening September 20-24, 2021), which is Creative Commons' annual event that brings together leading activists, artists, technologists, educators, lawyers, librarians, and others for discussion, panels, workshops, and community building. You can find out more about the event at summit.creativecommons.org.</p>
+<p>Audrey Tang on Twitter: https://twitter.com/audreyt</p>
+<p>WIRED | "How Taiwan’s Unlikely Digital Minister Hacked the Pandemic": https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic</p>
+<p>Creative Commons on Twitter: https://twitter.com/creativecommons</p>
+<p>Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout</p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Audrey-Tang--Digital-Minister-of-Taiwan-e14dc56</link>
+			<guid isPermaLink="false">1a161749-b9c5-4d1b-b51b-0034f8ab7806</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Tue, 13 Jul 2021 20:56:56 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/37187174/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-13%2F2147afd3-f25d-278b-ad01-e59366bf6ae9.mp3" length="38403389" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Audrey Tang is the Digital Minister of Taiwan, as well as an influential free software programmer and hacker. Tang is a vocal proponent of openness and has worked to manifest a vision for how open data and radical transparency can result in positive, productive collaboration between government and civil society.&lt;/p&gt;
+&lt;p&gt;Tang will be one of the keynote speakers at this year&apos;s CC Global Summit (happening September 20-24, 2021), which is Creative Commons&apos; annual event that brings together leading activists, artists, technologists, educators, lawyers, librarians, and others for discussion, panels, workshops, and community building. You can find out more about the event at summit.creativecommons.org.&lt;/p&gt;
+&lt;p&gt;Audrey Tang on Twitter: https://twitter.com/audreyt&lt;/p&gt;
+&lt;p&gt;WIRED | &quot;How Taiwan’s Unlikely Digital Minister Hacked the Pandemic&quot;: https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic&lt;/p&gt;
+&lt;p&gt;Creative Commons on Twitter: https://twitter.com/creativecommons&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1600</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Lila Bailey of the Internet Archive]]></title>
+			<description><![CDATA[<p>Lila Bailey is the policy counsel (i.e. the lead lawyer) for the Internet Archive, the nonprofit digital library that makes millions of books, movies, websites, and other cultural works available for free to the public. She's focused on using technology and policy to democratize access to culture and knowledge, and advocates publicly for libraries, archives, and the people they serve.</p>
+<p>Episode transcript: https://creativecommons.org/wp-content/uploads/2021/04/openmindsEP4.txt</p>
+<p>Internet Archive: https://archive.org</p>
+<p>Lila Bailey on Twitter: https://twitter.com/lilabailey</p>
+<p>Creative Commons on Twitter: https://twitter.com/creativecommons</p>
+<p>Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout</p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Lila-Bailey-of-the-Internet-Archive-euviqj</link>
+			<guid isPermaLink="false">d76bdc0d-a1d6-4187-9f43-419a331e24f4</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Thu, 15 Apr 2021 17:01:32 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/31492371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-15%2F68c6cb3d-3a3b-73a0-3e44-5049fd6e6ed6.mp3" length="50532134" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Lila Bailey is the policy counsel (i.e. the lead lawyer) for the Internet Archive, the nonprofit digital library that makes millions of books, movies, websites, and other cultural works available for free to the public. She&apos;s focused on using technology and policy to democratize access to culture and knowledge, and advocates publicly for libraries, archives, and the people they serve.&lt;/p&gt;
+&lt;p&gt;Episode transcript: https://creativecommons.org/wp-content/uploads/2021/04/openmindsEP4.txt&lt;/p&gt;
+&lt;p&gt;Internet Archive: https://archive.org&lt;/p&gt;
+&lt;p&gt;Lila Bailey on Twitter: https://twitter.com/lilabailey&lt;/p&gt;
+&lt;p&gt;Creative Commons on Twitter: https://twitter.com/creativecommons&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2105</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Coraline Ada Ehmke of the Organization for Ethical Source]]></title>
+			<description><![CDATA[<p>Coraline Ada Ehmke works at the intersection of open source software and social justice. She's the creator of Contributor Covenant, a code of conduct used by more than 100,000 open source projects and communities. She created the Hippocratic License, which prohibits software from being used in projects that violate human rights. She's also behind the Organization for Ethical Source, an initiative that aims to ensure that the work of open source developers is being used for social good.</p>
+<p>Episode transcript: https://creativecommons.org/wp-content/uploads/2021/04/openmindsEP3.txt</p>
+<p>Organization for Ethical Source: https://ethicalsource.dev/</p>
+<p>Coraline Ada Ehmke on Twitter: https://twitter.com/CoralineAda</p>
+<p>Creative Commons on Twitter: https://twitter.com/creativecommons</p>
+<p>Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout</p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Coraline-Ada-Ehmke-of-the-Organization-for-Ethical-Source-esuj6b</link>
+			<guid isPermaLink="false">7b591238-4cc3-4e7b-966c-0c7c2db18ae2</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Thu, 18 Mar 2021 20:19:29 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/29362827/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-18%2Faad69275-196c-97c4-af17-6bca888970aa.mp3" length="41388239" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Coraline Ada Ehmke works at the intersection of open source software and social justice. She&apos;s the creator of Contributor Covenant, a code of conduct used by more than 100,000 open source projects and communities. She created the Hippocratic License, which prohibits software from being used in projects that violate human rights. She&apos;s also behind the Organization for Ethical Source, an initiative that aims to ensure that the work of open source developers is being used for social good.&lt;/p&gt;
+&lt;p&gt;Episode transcript: https://creativecommons.org/wp-content/uploads/2021/04/openmindsEP3.txt&lt;/p&gt;
+&lt;p&gt;Organization for Ethical Source: https://ethicalsource.dev/&lt;/p&gt;
+&lt;p&gt;Coraline Ada Ehmke on Twitter: https://twitter.com/CoralineAda&lt;/p&gt;
+&lt;p&gt;Creative Commons on Twitter: https://twitter.com/creativecommons&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1724</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Effie Kapsalis of The Smithsonian]]></title>
+			<description><![CDATA[<p>Effie Kapsalis is Senior Digital Program Officer at The Smithsonian, where she leads the digital strategy for the Smithsonian's American Women's History Initiative. She also developed and implemented a project called Smithsonian Open Access, which removed copyright restrictions from millions of images and data and made them freely available to the public. This week marks the one year anniversary of the launch of Smithsonian Open Access.</p>
+<p>Smithsonian Open Access: https://www.si.edu/openaccess</p>
+<p>Effie Kapsalis on Twitter: https://twitter.com/digitaleffie</p>
+<p>Creative Commons on Twitter: https://twitter.com/creativecommons</p>
+<p>Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout</p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Effie-Kapsalis-of-The-Smithsonian-eqtqgo</link>
+			<guid isPermaLink="false">77aa18ed-de82-40e8-93ea-ee0ed2b099fc</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Wed, 24 Feb 2021 10:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/27240408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-23%2F2aa33641-4819-2cf6-da32-b5164179bae9.mp3" length="34902566" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Effie Kapsalis is Senior Digital Program Officer at The Smithsonian, where she leads the digital strategy for the Smithsonian&apos;s American Women&apos;s History Initiative. She also developed and implemented a project called Smithsonian Open Access, which removed copyright restrictions from millions of images and data and made them freely available to the public. This week marks the one year anniversary of the launch of Smithsonian Open Access.&lt;/p&gt;
+&lt;p&gt;Smithsonian Open Access: https://www.si.edu/openaccess&lt;/p&gt;
+&lt;p&gt;Effie Kapsalis on Twitter: https://twitter.com/digitaleffie&lt;/p&gt;
+&lt;p&gt;Creative Commons on Twitter: https://twitter.com/creativecommons&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1454</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Catherine Stihler of Creative Commons]]></title>
+			<description><![CDATA[<p>In our debut episode, we talk to Creative Commons CEO Catherine Stihler. Catherine started at CC in 2020, after many years as a Member of the European Parliament for Scotland, and then more recently as the CEO of the Open Knowledge Foundation. In our conversation, we hear from CC's new leader about her career and her vision for what's next for the Creative Commons movement.</p>
+<p>Catherine Stihler on Wikipedia: https://en.wikipedia.org/wiki/Catherine_Stihler</p>
+<p>Catherine Stihler on Twitter: https://twitter.com/C_Stihler</p>
+<p>Creative Commons on Twitter: https://twitter.com/creativecommons</p>
+<p>Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout</p>
+<p>Theme music: "Day Bird" by Broke for Free (<a href="http://brokeforfree.com/">brokeforfree.com</a>). Available for use under the <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0 license</a>, at <a href="https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird">the Free Music Archive</a>.</p>
+<p>Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)</p>
+]]></description>
+			<link>https://anchor.fm/creativecommons/episodes/Catherine-Stihler-of-Creative-Commons-eqjl5g</link>
+			<guid isPermaLink="false">c7e14df9-5f22-4e72-9cbb-36c7134cf852</guid>
+			<dc:creator><![CDATA[Creative Commons]]></dc:creator>
+			<pubDate>Thu, 18 Feb 2021 19:05:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d70d828/podcast/play/26907248/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-18%2Ffb44fcb0-af83-10c7-e514-af33f484108e.mp3" length="27654528" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In our debut episode, we talk to Creative Commons CEO Catherine Stihler. Catherine started at CC in 2020, after many years as a Member of the European Parliament for Scotland, and then more recently as the CEO of the Open Knowledge Foundation. In our conversation, we hear from CC&apos;s new leader about her career and her vision for what&apos;s next for the Creative Commons movement.&lt;/p&gt;
+&lt;p&gt;Catherine Stihler on Wikipedia: https://en.wikipedia.org/wiki/Catherine_Stihler&lt;/p&gt;
+&lt;p&gt;Catherine Stihler on Twitter: https://twitter.com/C_Stihler&lt;/p&gt;
+&lt;p&gt;Creative Commons on Twitter: https://twitter.com/creativecommons&lt;/p&gt;
+&lt;p&gt;Donate to support the work of Creative Commons: https://www.classy.org/give/313412/#!/donation/checkout&lt;/p&gt;
+&lt;p&gt;Theme music: &quot;Day Bird&quot; by Broke for Free (&lt;a href=&quot;http://brokeforfree.com/&quot;&gt;brokeforfree.com&lt;/a&gt;). Available for use under the &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/&quot;&gt;CC BY 3.0 license&lt;/a&gt;, at &lt;a href=&quot;https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_03_Day_Bird&quot;&gt;the Free Music Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Minds … from Creative Commons is licensed to the public under CC BY (https://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1152</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12892410/12892410-1613674547716-94a6e5908a459.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
